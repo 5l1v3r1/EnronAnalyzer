@@ -1,0 +1,16 @@
+eng,turbo,size,eco,fast
+small,no,avg,good,no
+small,no,light,avg,no
+small,yes,avg,bad,yes
+med,no,heavy,bad,yes
+large,no,avg,bad,yes
+med,no,light,bad,no
+large,yes,heavy,bad,no
+large,no,heavy,bad,no
+med,yes,light,bad,yes
+large,no,avg,bad,yes
+small,no,light,good,no
+small,no,avg,avg,no
+med,no,heavy,bad,no
+small,yes,avg,avg,no
+med,no,heavy,bad,no

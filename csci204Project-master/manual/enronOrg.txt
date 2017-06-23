@@ -1,0 +1,8 @@
+phillip.allen@enron.com -- West Coast Gas
+derrick.james@enron.com -- Legal
+taylor.mark@enron.com -- Legal
+sanders.richard@enron.com -- Legal (lawyer)
+kenneth.lay@enron.com -- CEO
+jeff.skilling@enron.com -- CEO
+john.arnold@enron.com -- Natural Gas
+sally.beck@enron.com -- Unknown
